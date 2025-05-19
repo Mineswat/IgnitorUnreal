@@ -1,0 +1,7 @@
+# This file contains a list of files and folders that should never be uploaded to Perforce.
+# This file should sit in the main Unreal project folder
+/Binaries
+/Build
+/DerivedDataCache
+/Intermediate
+/Saved
